@@ -2,6 +2,7 @@
   "name": "@brianshaler/tsexp",
   "version": "1.0.1",
   "main": "dist/index.js",
+  "private": false,
   "repository": "git@github.com:brianshaler/tsexp.git",
   "author": "Brian Shaler <brianshaler@gmail.com>",
   "license": "MIT",

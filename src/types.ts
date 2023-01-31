@@ -1,8 +1,8 @@
 export type Version = {
-  versionString: '1.0.1';
+  versionString: '1.0.2';
   major: '1';
   minor: '0';
-  patch: '1';
+  patch: '2';
 };
 
 export type Info = {
